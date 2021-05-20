@@ -23,23 +23,23 @@
     - https://www.youtube.com/playlist?list=PL323JufuD9JBUwKSPILGKBaI5JPyAVapn
 - factotum - private
     - https://www.youtube.com/playlist?list=PL323JufuD9JC6bNWXnADf2b5W-9BcTk_n
-- Lisp-like functional language for computable & immutable specifications, interpreted by WebAssembly & the Ethereum Virtual Machine 
+- taylor - Lisp-like functional language for computable & immutable specifications, interpreted by WebAssembly & the Ethereum Virtual Machine 
     - https://github.com/loredanacirstea/taylor
     - https://www.youtube.com/playlist?list=PL323JufuD9JAgnda2E8mGn_GDcD5ef4mH
 - Luxor (spreadheet for web3)
     - https://www.youtube.com/playlist?list=PL323JufuD9JC5uWKvRsy76pFLSg-DDuCd
-- decentralized type system
+- dType - decentralized type system
     - https://github.com/pipeos-one/dType
     - https://www.youtube.com/playlist?list=PL323JufuD9JC46yClCf5fdaEX17kocem7
-- Fine-grained browser and searcher of Ethereum smart contracts
+- ChainLens - Fine-grained browser and searcher of Ethereum smart contracts
     - https://github.com/pipeos-one/chainlens 
     - https://www.youtube.com/playlist?list=PL323JufuD9JCV67-vSQdb1uvLudyv8sXz
-- Visual IDE for composing Solidity smart contracts and Dapp agents.
+- Pipeline - Visual IDE for composing Solidity smart contracts and Dapp agents.
     - https://github.com/pipeos-one/pipeline 
     - https://www.youtube.com/playlist?list=PL323JufuD9JAyaYCEvrnQ5yOAc3ukuNyF
-- ewasm virtual machine for javascript 
+- ewasm-jsvm - ewasm virtual machine for javascript 
     - https://github.com/loredanacirstea/ewasm-jsvm
-- Ethereum State Bridge
+- goldengate - Ethereum State Bridge
     - https://github.com/loredanacirstea/goldengate
 - Advanced assembly and dissasembly tools for EVM
     - https://github.com/loredanacirstea/masm 
@@ -71,6 +71,7 @@
 
 ## Conferences, presentations
 
+- [dType ver. 2.0 & Lens Lecture - Solidity Summit 2020](https://youtu.be/XMCgL99noYY)
 - [EthCC Paris 2019 - Pipeline](https://www.youtube.com/watch?v=2NqQh_GHAh0)
 - [Ethereum Meetup Berlin 2018 - Pipeline](https://youtu.be/MBUdk6qPBLQ)
 - [Ethereum Meetup Berlin 2018 - Drone Demo with µRaiden - Unidirectional Off-Chain Micropayments](https://www.youtube.com/watch?v=E6CIgJPxgpQ)
