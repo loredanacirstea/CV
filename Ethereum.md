@@ -1,5 +1,8 @@
 # Volunteer work for Ethereum
 
+- part-time volunteer Aug 5, 2018 - February 1st 2019.
+- more than full-time volunteer since February 1st 2019.
+
 ## EIPs
 
 1. [EIP-1900: dType - Decentralized Type System for EVM](http://eips.ethereum.org/EIPS/eip-1900), discussions [here](https://github.com/ethereum/EIPs/issues/1882)
@@ -16,7 +19,10 @@
 - [Data/Load Balancing of Shards](https://ethresear.ch/t/data-load-balancing-of-shards/5961)
 
 ## Software and Video Demos
-
+- Cometh - the EVM debugger - not public yet (built with Marks Factory)
+   - https://www.youtube.com/playlist?list=PL323JufuD9JAozCnyMWKt38wa-A_sNaFo
+- Tikkun Olam Dapp - not public yet (built with Marks Factory)
+   - https://www.youtube.com/playlist?list=PL323JufuD9JB-EGqJbPo9hOTMOjjUFHm0
 - ark - not public yet
    - https://www.youtube.com/playlist?list=PL323JufuD9JD2QibZ_m25pSoKgDZPozm8
 - marks factory - not public yet 
