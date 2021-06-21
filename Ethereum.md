@@ -3,6 +3,14 @@
 - part-time volunteer Aug 5, 2018 - February 1st 2019.
 - more than full-time volunteer since February 1st 2019.
 
+### Income Sources
+- https://www.patreon.com/loredana pays for video content
+- I never owned ETH, BTC or other tokens. My company owns ETH and it never sold.
+- I implemented an ICO for a company, but my earnings were kept close to what I negotiated before I even knew what I would work on.
+- I have never been an advisor or on the payroll of any other ICO company
+- I live rent free
+- I have no other sources of income aside from those listed
+
 ## EIPs
 
 1. [EIP-1900: dType - Decentralized Type System for EVM](http://eips.ethereum.org/EIPS/eip-1900), discussions [here](https://github.com/ethereum/EIPs/issues/1882)
