@@ -5,7 +5,7 @@
 
 ### Income Sources
 - ~~https://www.patreon.com/loredana pays for video content~~ (stopped, returned all payments)
-- I never owned ETH, BTC or other tokens. My company owns only ETH and it never sold.
+- I never owned ETH, BTC or other tokens. My company owns only ETH and it ~~never sold~~ has converted all this ETH to buy EVMOS in 2022.
 - I implemented an ICO for a company, but my earnings were kept close to what I negotiated before I even knew what I would work on.
 - I have never been an advisor or on the payroll of any other ICO company
 - I live rent free
